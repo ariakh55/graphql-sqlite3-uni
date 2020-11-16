@@ -12,6 +12,10 @@ Simple declaration of graphql with express.js along side SQLite3.
 
 GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.
 
+[GIST](https://gist.github.com/ariakh55/dbc0c738f6d01e8192a7f4842946bb0a)
+
+<iframe src="https://gist.github.com/ariakh55/dbc0c738f6d01e8192a7f4842946bb0a.js"></iframe>
+
 References
 ------------
 - [GraphQL](https://graphql.org/)
