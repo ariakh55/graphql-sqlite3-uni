@@ -14,17 +14,6 @@ GraphQL is a query language for APIs and a runtime for fulfilling those queries 
 
 [GIST](https://gist.github.com/ariakh55/dbc0c738f6d01e8192a7f4842946bb0a)
 
-<iframe id="github-iframe" src=""></iframe>
-<script>
-    fetch('https://api.github.com/repos/ariakh55/graphql-sqlite3-uni/contents/src/app.js')
-        .then(function(response) {
-            return response.json();
-        }).then(function(data) {
-            var iframe = document.getElementById('github-iframe');
-            iframe.src = 'data:text/html;base64,' + encodeURIComponent(data['content']);
-        });
-</script>
-
 References
 ------------
 - [GraphQL](https://graphql.org/)
