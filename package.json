@@ -6,7 +6,7 @@
   "scripts": {
     "run": "nodemon app"
   },
-  "author": "",
+  "author": "Rias Germory",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
